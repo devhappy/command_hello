@@ -1,9 +1,13 @@
-print("Hello workd")
+//For command line
 <<<<<<< HEAD
+//GitHub modification 후후
+=======
+//GitHub modification 메롱
+>>>>>>> origin/master
+print("Hello workd")
 2
 4
-=======
 23
 1
-
->>>>>>> hotfix
+a
+메롱~!
