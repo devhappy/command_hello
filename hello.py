@@ -9,3 +9,4 @@ print("Hello workd")
 1
 a
 메롱~!
+print
